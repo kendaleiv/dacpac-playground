@@ -5,7 +5,7 @@ using Xunit;
 
 namespace TestDatabase.Tests
 {
-    public class Tests
+    public class IndexTests
     {
         [Fact]
         public async Task DacServicesDeletesExistingIndexByDefault()
