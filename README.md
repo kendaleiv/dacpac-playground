@@ -1,6 +1,6 @@
-# DACPAC Testing
+# DACPAC Playground
 
-DACPAC testing using `Microsoft.SqlServer.DacFx`.
+Using `Microsoft.SqlServer.DacFx` NuGet package.
 
 ## License
 
